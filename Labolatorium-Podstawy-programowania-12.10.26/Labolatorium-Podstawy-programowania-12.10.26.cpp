@@ -233,8 +233,11 @@ int main()
 		i = i + 0.05;
 
 	}
-	*/
 
+
+	*/
+	
+	cout << "Poznań" << endl; 
 
 
 
